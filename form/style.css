@@ -1,0 +1,38 @@
+.upper{
+    display: flex;
+    justify-content: center;
+
+}
+
+.formula{
+    display: flex;
+    gap: 0.2rem;
+    flex-direction: column;
+    width: 20rem;
+}
+
+.mainbar{
+    display: flex;
+    width: 20rem;
+    flex-direction: row;
+    font-size: large;
+
+
+}
+
+.otherbar{
+    display: flex;
+    gap: 5rem;
+    flex-direction: row;
+    width: 20rem;
+    position: absolute;
+    justify-content: right;
+    right: 2rem;
+    top: 0.6rem;
+
+}
+
+.bar{
+    background-color: blanchedalmond;
+}
+
